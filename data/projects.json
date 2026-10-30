@@ -15,7 +15,13 @@
       "Material"
     ],
     "visible": true,
-    "images": []
+    "images": [],
+    "content": {
+      "zh": "",
+      "en": ""
+    },
+    "thumbnail": "",
+    "link": ""
   },
   {
     "id": "environment-art",
