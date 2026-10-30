@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Technical Art",
+    "title": {
+      "zh": "技術美術",
+      "en": "Technical Art"
+    },
+    "subtitle": {
+      "zh": "Shader · Unreal Engine · TouchDesigner",
+      "en": "Shader · Unreal Engine · TouchDesigner"
+    },
+    "description": {
+      "zh": "即時影像、材質與互動技術研究。",
+      "en": "Real-time visuals, shaders, and interactive systems."
+    }
+  },
+  {
+    "id": "3D Art",
+    "title": {
+      "zh": "3D 美術",
+      "en": "3D Art"
+    },
+    "subtitle": {
+      "zh": "Environment · Modeling · Rendering",
+      "en": "Environment · Modeling · Rendering"
+    },
+    "description": {
+      "zh": "場景、建模與視覺敘事。",
+      "en": "Environment art, modeling, and visual storytelling."
+    }
+  },
+  {
+    "id": "2D Art",
+    "title": {
+      "zh": "2D 美術",
+      "en": "2D Art"
+    },
+    "subtitle": {
+      "zh": "Illustration · Concept · Visual Design",
+      "en": "Illustration · Concept · Visual Design"
+    },
+    "description": {
+      "zh": "插畫、概念與平面視覺設計。",
+      "en": "Illustration, concept art, and visual design."
+    }
+  }
+]
