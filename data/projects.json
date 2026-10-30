@@ -1,0 +1,54 @@
+[
+  {
+    "id": "realtime-shaders",
+    "category": "Technical Art",
+    "title": {
+      "zh": "即時材質研究",
+      "en": "Real-time Shader Studies"
+    },
+    "description": {
+      "zh": "材質、光影與即時渲染實驗。",
+      "en": "Experiments with materials, lighting, and real-time rendering."
+    },
+    "tools": [
+      "Unreal Engine",
+      "Material"
+    ],
+    "visible": true,
+    "images": []
+  },
+  {
+    "id": "environment-art",
+    "category": "3D Art",
+    "title": {
+      "zh": "3D 場景設計",
+      "en": "3D Environment Art"
+    },
+    "description": {
+      "zh": "場景構圖、建模與視覺敘事。",
+      "en": "Environment composition, modeling, and visual storytelling."
+    },
+    "tools": [
+      "3D Art"
+    ],
+    "visible": true,
+    "images": []
+  },
+  {
+    "id": "visual-illustration",
+    "category": "2D Art",
+    "title": {
+      "zh": "2D 視覺創作",
+      "en": "2D Visual Art"
+    },
+    "description": {
+      "zh": "插畫、概念設計與視覺探索。",
+      "en": "Illustration, concept design, and visual exploration."
+    },
+    "tools": [
+      "2D Art"
+    ],
+    "visible": true,
+    "images": []
+  }
+]
